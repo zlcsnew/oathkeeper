@@ -1,0 +1,179 @@
+{
+  "version-v0.38/docs": [
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "Introduction",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-v0.38/index"
+        },
+        {
+          "type": "doc",
+          "id": "version-v0.38/install"
+        },
+        {
+          "type": "doc",
+          "id": "version-v0.38/contributing"
+        }
+      ]
+    },
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "Core Concepts",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-v0.38/api-access-rules"
+        },
+        {
+          "collapsed": true,
+          "type": "category",
+          "label": "Handlers",
+          "items": [
+            {
+              "type": "doc",
+              "id": "version-v0.38/pipeline/index"
+            },
+            {
+              "type": "doc",
+              "id": "version-v0.38/pipeline/authn"
+            },
+            {
+              "type": "doc",
+              "id": "version-v0.38/pipeline/authz"
+            },
+            {
+              "type": "doc",
+              "id": "version-v0.38/pipeline/mutator"
+            },
+            {
+              "type": "doc",
+              "id": "version-v0.38/pipeline/error"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "Guides",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-v0.38/configure-deploy"
+        },
+        {
+          "type": "doc",
+          "id": "version-v0.38/oauth2-token-introspection-hydra"
+        }
+      ]
+    },
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "Reference",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-v0.38/reference/configuration"
+        },
+        {
+          "type": "doc",
+          "id": "version-v0.38/reference/api"
+        }
+      ]
+    },
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "SDKs",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-v0.38/sdk/index"
+        }
+      ]
+    },
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "Development",
+      "items": [
+        {
+          "type": "doc",
+          "id": "version-v0.38/milestones"
+        }
+      ]
+    },
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "ORY Kratos",
+      "items": [
+        {
+          "type": "link",
+          "label": "Home",
+          "href": "https://www.ory.sh/kratos"
+        },
+        {
+          "type": "link",
+          "label": "Docs",
+          "href": "https://www.ory.sh/kratos/docs"
+        },
+        {
+          "type": "link",
+          "label": "GitHub",
+          "href": "https://github.com/ory/kratos"
+        }
+      ]
+    },
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "ORY Hydra",
+      "items": [
+        {
+          "type": "link",
+          "label": "Home",
+          "href": "https://www.ory.sh/hydra"
+        },
+        {
+          "type": "link",
+          "label": "Docs",
+          "href": "https://www.ory.sh/hydra/docs"
+        },
+        {
+          "type": "link",
+          "label": "GitHub",
+          "href": "https://github.com/ory/hydra"
+        }
+      ]
+    },
+    {
+      "collapsed": true,
+      "type": "category",
+      "label": "ORY Keto",
+      "items": [
+        {
+          "type": "link",
+          "label": "Home",
+          "href": "https://www.ory.sh/keto"
+        },
+        {
+          "type": "link",
+          "label": "Docs",
+          "href": "https://www.ory.sh/keto/docs"
+        },
+        {
+          "type": "link",
+          "label": "GitHub",
+          "href": "https://github.com/ory/keto"
+        }
+      ]
+    }
+  ]
+}
